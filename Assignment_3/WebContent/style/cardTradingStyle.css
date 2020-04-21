@@ -1,0 +1,37 @@
+
+h1 { color: black;
+     text-align: left;
+     font-size: 20px;
+     font-family: Arial Black, Arial, Helvetica, sans-serif
+}
+body {
+  background-color: lightblue;
+}
+table {
+  border:2px solid black;
+   
+}
+th{
+  border: 1px solid grey;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: grey;
+}
+input[type=text],input[type=password] {
+  border: none;
+  border-bottom: 2px solid black;
+}
+.logout { background-color:grey;
+  color: black; 
+  border: 2px solid red;} 
+td.error{
+	color:red;
+	font-weight:bold;
+}
+h3.herror{
+	color:red;
+	font-weight:bold;
+}
+ 
